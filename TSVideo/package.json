@@ -9,6 +9,7 @@
   "author": "Rohan",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^13.11.0",
     "lite-server": "^2.5.4"
   },
   "dependencies": {},
